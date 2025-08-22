@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms, C++, and Ethical Hacking**
 - 💞️ I’m looking to collaborate on **open-source projects, web apps, and security tools**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sailesh-12/) | sailesh24110453@snuchennai.edu.in
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love combining code with creativity — whether it’s filmmaking, photography, or UI design!
 
 <!---
