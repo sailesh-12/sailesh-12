@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sailesh
 
 - 👀 I’m interested in **Cybersecurity, Full-Stack Web Development, and AI**
-- 🌱 I’m currently learning **Data Structures & Algorithms, C++, and Ethical Hacking**
+- 🌱 I’m currently learning **Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on **open-source projects, web apps, and security tools**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sailesh1230/) | sailesh24110453@snuchennai.edu.in
 - ⚡ Fun fact: I love combining code with creativity — whether it’s filmmaking, photography, or UI design!
