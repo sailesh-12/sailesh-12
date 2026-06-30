@@ -72,14 +72,20 @@ me.say_hi()
 <br>
 
 <!-- STATS -->
-## 📊 GitHub Stats
+## 📊 Stats & Coding Profiles
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sailesh-12&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailesh-12&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" height="180" />
 
-<br><br>
+<br/>
+
+<a href="https://leetcode.com/u/Sailesh12301822/">
+  <img src="https://leetcard.jacob.cai.workers.dev/?username=Sailesh12301822&theme=dark" height="150" />
+</a>
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh-12&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="700" />
 
@@ -116,6 +122,7 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailesh1230/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saileshkarthikeyan8/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailesh24110453@snuchennai.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sailesh-12)
 
