@@ -52,22 +52,12 @@ me.say_hi()
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sailesh-12/indiamart-automated-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sailesh-12&repo=indiamart-automated-service&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/sailesh-12/gdg_open_build">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sailesh-12&repo=gdg_open_build&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/sailesh-12/ai-resume-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sailesh-12&repo=ai-resume-analyzer&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/sailesh-12/price-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sailesh-12&repo=price-tracker&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=c9d1d9" />
-</a>
-
-</div>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **[IndiaMART Lead Auto-Contact](https://github.com/sailesh-12/indiamart-automated-service)** | Automated pipeline that scrapes buyer leads, filters them, and contacts buyers. | `Python`, `FastAPI`, `Playwright`, `Chrome Extension` |
+| 📊 **[AnchorRisk](https://github.com/sailesh-12/gdg_open_build)** | Fintech platform evaluating loan risk by analyzing household financial structures. | `JavaScript`, `React`, `Node.js` |
+| 📄 **[AI Resume Analyzer](https://github.com/sailesh-12/ai-resume-analyzer)** | RAG-based AI-powered resume intelligence system that parses and evaluates resumes. | `Python`, `LangChain`, `OpenAI`, `RAG` |
+| 🏷️ **[Price Tracker](https://github.com/sailesh-12/price-tracker)** | AI-powered price tracking application with automated price drop notifications. | `JavaScript`, `React`, `Node.js` |
 
 <br>
 
@@ -76,18 +66,18 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sailesh-12&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailesh-12&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sailesh-12&theme=dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sailesh-12&theme=dark" height="180" />
 
 <br/>
 
 <a href="https://leetcode.com/u/SaileshS12301822/">
-  <img src="https://leetcard.jacob.cai.workers.dev/?username=SaileshS12301822&theme=dark" height="150" />
+  <img src="https://leetcard.jacoblin.cool/SaileshS12301822?theme=dark" height="150" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh-12&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="700" />
+<img src="https://streak-stats.demolab.com/?user=sailesh-12&theme=dark" width="700" />
 
 </div>
 
@@ -122,7 +112,7 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailesh1230/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saileshkarthikeyan8/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SaileshS12301822/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailesh24110453@snuchennai.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sailesh-12)
 
